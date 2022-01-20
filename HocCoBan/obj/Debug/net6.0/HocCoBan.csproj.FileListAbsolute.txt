@@ -1,0 +1,15 @@
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\HocCoBan.exe
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\HocCoBan.deps.json
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\HocCoBan.runtimeconfig.json
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\HocCoBan.dll
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\ref\HocCoBan.dll
+D:\Source C sharp\HocCoBan\HocCoBan\bin\Debug\net6.0\HocCoBan.pdb
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.csproj.AssemblyReference.cache
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.AssemblyInfoInputs.cache
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.AssemblyInfo.cs
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.csproj.CoreCompileInputs.cache
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.dll
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\ref\HocCoBan.dll
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.pdb
+D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.genruntimeconfig.cache
