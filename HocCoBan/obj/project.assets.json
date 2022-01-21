@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source C sharp\\HocCoBan\\HocCoBan\\HocCoBan.csproj",
+      "projectUniqueName": "D:\\text\\C_sharp_cb\\HocCoBan\\HocCoBan.csproj",
       "projectName": "HocCoBan",
-      "projectPath": "D:\\Source C sharp\\HocCoBan\\HocCoBan\\HocCoBan.csproj",
+      "projectPath": "D:\\text\\C_sharp_cb\\HocCoBan\\HocCoBan.csproj",
       "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "D:\\Source C sharp\\HocCoBan\\HocCoBan\\obj\\",
+      "outputPath": "D:\\text\\C_sharp_cb\\HocCoBan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",

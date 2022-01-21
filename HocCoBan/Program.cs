@@ -34,6 +34,8 @@ namespace HocCoBan
             SinhVienCNTT a = new SinhVienCNTT();
             a.Diem = 123;
             Console.WriteLine(a.Diem);
+            //new
+            Console.WriteLine(a.Ten);
         }
     }
 }

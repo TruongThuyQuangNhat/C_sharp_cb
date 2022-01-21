@@ -13,3 +13,18 @@ D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.dll
 D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\ref\HocCoBan.dll
 D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.pdb
 D:\Source C sharp\HocCoBan\HocCoBan\obj\Debug\net6.0\HocCoBan.genruntimeconfig.cache
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\HocCoBan.exe
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\HocCoBan.deps.json
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\HocCoBan.runtimeconfig.json
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\HocCoBan.dll
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\ref\HocCoBan.dll
+D:\text\C_sharp_cb\HocCoBan\bin\Debug\net6.0\HocCoBan.pdb
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.csproj.AssemblyReference.cache
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.AssemblyInfoInputs.cache
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.AssemblyInfo.cs
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.csproj.CoreCompileInputs.cache
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.dll
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\ref\HocCoBan.dll
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.pdb
+D:\text\C_sharp_cb\HocCoBan\obj\Debug\net6.0\HocCoBan.genruntimeconfig.cache

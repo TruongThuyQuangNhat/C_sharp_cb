@@ -2,3 +2,4 @@
 102, Truong Quang Nhat, 8.4
 103, Phan Thi Anh, 7.6
 104, Tran Van Hung, 5.0
+105, Nguyen Can Dong, 8.4
